@@ -7,7 +7,7 @@ package creaqr;
 /**
  *
  * @author jaimeponcemeza
- Este código fue creado en Julio 2020 **/
+ Este código fue creado en Junio 2020 **/
 public class CreaQR {
 
     /**
